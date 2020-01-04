@@ -1,0 +1,11 @@
+/Users/Annie/C#/Chapter 6/CheckZips/CheckZips/bin/Debug/netcoreapp3.0/CheckZips
+/Users/Annie/C#/Chapter 6/CheckZips/CheckZips/bin/Debug/netcoreapp3.0/CheckZips.deps.json
+/Users/Annie/C#/Chapter 6/CheckZips/CheckZips/bin/Debug/netcoreapp3.0/CheckZips.runtimeconfig.json
+/Users/Annie/C#/Chapter 6/CheckZips/CheckZips/bin/Debug/netcoreapp3.0/CheckZips.runtimeconfig.dev.json
+/Users/Annie/C#/Chapter 6/CheckZips/CheckZips/bin/Debug/netcoreapp3.0/CheckZips.dll
+/Users/Annie/C#/Chapter 6/CheckZips/CheckZips/bin/Debug/netcoreapp3.0/CheckZips.pdb
+/Users/Annie/C#/Chapter 6/CheckZips/CheckZips/obj/Debug/netcoreapp3.0/CheckZips.csprojAssemblyReference.cache
+/Users/Annie/C#/Chapter 6/CheckZips/CheckZips/obj/Debug/netcoreapp3.0/CheckZips.AssemblyInfoInputs.cache
+/Users/Annie/C#/Chapter 6/CheckZips/CheckZips/obj/Debug/netcoreapp3.0/CheckZips.AssemblyInfo.cs
+/Users/Annie/C#/Chapter 6/CheckZips/CheckZips/obj/Debug/netcoreapp3.0/CheckZips.dll
+/Users/Annie/C#/Chapter 6/CheckZips/CheckZips/obj/Debug/netcoreapp3.0/CheckZips.pdb

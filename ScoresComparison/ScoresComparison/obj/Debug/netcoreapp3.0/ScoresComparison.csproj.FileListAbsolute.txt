@@ -1,0 +1,11 @@
+/Users/Annie/C#/Chapter 6/ScoresComparison/ScoresComparison/bin/Debug/netcoreapp3.0/ScoresComparison
+/Users/Annie/C#/Chapter 6/ScoresComparison/ScoresComparison/bin/Debug/netcoreapp3.0/ScoresComparison.deps.json
+/Users/Annie/C#/Chapter 6/ScoresComparison/ScoresComparison/bin/Debug/netcoreapp3.0/ScoresComparison.runtimeconfig.json
+/Users/Annie/C#/Chapter 6/ScoresComparison/ScoresComparison/bin/Debug/netcoreapp3.0/ScoresComparison.runtimeconfig.dev.json
+/Users/Annie/C#/Chapter 6/ScoresComparison/ScoresComparison/bin/Debug/netcoreapp3.0/ScoresComparison.dll
+/Users/Annie/C#/Chapter 6/ScoresComparison/ScoresComparison/bin/Debug/netcoreapp3.0/ScoresComparison.pdb
+/Users/Annie/C#/Chapter 6/ScoresComparison/ScoresComparison/obj/Debug/netcoreapp3.0/ScoresComparison.csprojAssemblyReference.cache
+/Users/Annie/C#/Chapter 6/ScoresComparison/ScoresComparison/obj/Debug/netcoreapp3.0/ScoresComparison.AssemblyInfoInputs.cache
+/Users/Annie/C#/Chapter 6/ScoresComparison/ScoresComparison/obj/Debug/netcoreapp3.0/ScoresComparison.AssemblyInfo.cs
+/Users/Annie/C#/Chapter 6/ScoresComparison/ScoresComparison/obj/Debug/netcoreapp3.0/ScoresComparison.dll
+/Users/Annie/C#/Chapter 6/ScoresComparison/ScoresComparison/obj/Debug/netcoreapp3.0/ScoresComparison.pdb

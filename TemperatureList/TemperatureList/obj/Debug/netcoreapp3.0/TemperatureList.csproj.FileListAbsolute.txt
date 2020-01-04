@@ -1,0 +1,11 @@
+/Users/Annie/C#/Chapter 6/TemperatureList/TemperatureList/bin/Debug/netcoreapp3.0/TemperatureList
+/Users/Annie/C#/Chapter 6/TemperatureList/TemperatureList/bin/Debug/netcoreapp3.0/TemperatureList.deps.json
+/Users/Annie/C#/Chapter 6/TemperatureList/TemperatureList/bin/Debug/netcoreapp3.0/TemperatureList.runtimeconfig.json
+/Users/Annie/C#/Chapter 6/TemperatureList/TemperatureList/bin/Debug/netcoreapp3.0/TemperatureList.runtimeconfig.dev.json
+/Users/Annie/C#/Chapter 6/TemperatureList/TemperatureList/bin/Debug/netcoreapp3.0/TemperatureList.dll
+/Users/Annie/C#/Chapter 6/TemperatureList/TemperatureList/bin/Debug/netcoreapp3.0/TemperatureList.pdb
+/Users/Annie/C#/Chapter 6/TemperatureList/TemperatureList/obj/Debug/netcoreapp3.0/TemperatureList.csprojAssemblyReference.cache
+/Users/Annie/C#/Chapter 6/TemperatureList/TemperatureList/obj/Debug/netcoreapp3.0/TemperatureList.AssemblyInfoInputs.cache
+/Users/Annie/C#/Chapter 6/TemperatureList/TemperatureList/obj/Debug/netcoreapp3.0/TemperatureList.AssemblyInfo.cs
+/Users/Annie/C#/Chapter 6/TemperatureList/TemperatureList/obj/Debug/netcoreapp3.0/TemperatureList.dll
+/Users/Annie/C#/Chapter 6/TemperatureList/TemperatureList/obj/Debug/netcoreapp3.0/TemperatureList.pdb

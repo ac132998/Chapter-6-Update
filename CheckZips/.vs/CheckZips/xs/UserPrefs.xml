@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{45CE36B1-85D4-4964-8A5B-186797DDED4D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CheckZips/Program.cs">
+    <Files>
+      <File FileName="CheckZips/Program.cs" Line="33" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CheckZips" expanded="True">
+            <Node name="CheckZips" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CheckZips PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
